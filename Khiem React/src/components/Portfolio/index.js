@@ -6,34 +6,28 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'NFL-Calculator',
+      description: 'NFL live updates',
+      link: "https://ianad389.github.io/UCBCS_FFCalculator/index.html",
+      repo: "https://github.com/ianad389/UCBCS_FFCalculator"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Safespace',
+      description: 'Free to post whatever you want!',
+      link: "https://the-safer-space.herokuapp.com/",
+      repo: "https://github.com/ianad389/UCBC_SafeSpace"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'CodingQuiz',
+      description: 'Test your coding knowledge',
+      link: "https://ianad389.github.io/Code-Quiz-Final/",
+      repo: "https://github.com/ianad389/UCBC_SafeSpace"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Workday Scheduler',
+      description: 'Organize your day',
+      link: "https://ianad389.github.io/Workday-Scheduler-/",
+      repo: "https://github.com/ianad389/Workday-Scheduler-"
     },
   ]);
 
