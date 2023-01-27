@@ -5,11 +5,11 @@ main {
 }
 :root {
   --primary: #8c54ff;
-  --secondary: #31343D;
+  --secondary: #112c80;
   --tertiary: #b12704;
   --light: #fafafa;
-  --dark: #d63e3e;
-  --darker: #000000;
+  --dark:  teal;
+  --darker: gray;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
